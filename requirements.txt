@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+langgraph
+faiss-cpu
+deepeval
+pypdf
+python-dotenv
+jupyter
+ipykernel
